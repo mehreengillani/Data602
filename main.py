@@ -7,7 +7,6 @@ Please do not submit your work if test cases fail.
 4. Submissions must be a Python file and not a notebook file (i.e *.ipynb)
 5. Do not use global variables
 '''
-reticulate::py_config()
 import pandas as pd
 import unittest
 
